@@ -14,6 +14,7 @@ public class DemoApplication {
 		int sum = a+b;
 		System.out.println("Addtition: of a + b ="+ sum);
 		System.out.println("Sadab");
+		System.out.println("Sadab");
 
 	}
 
