@@ -8,6 +8,11 @@ public class DemoApplication {
 		System.out.println("Hi Sadab..today date 18 june 2022");
 		System.out.println("Day - Satuerday time 1.10 pm");
 		System.out.println("Allhumdulillha.... Now I got success... feeling happy to got success after few days.. :) ");
+		
+		int a=2;
+		int b= 4;
+		int sum = a+b;
+		System.out.println("Addtition: of a + b ="+ sum);
 
 	}
 
