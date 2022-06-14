@@ -19,6 +19,8 @@ public class DemoApplication {
 		System.out.println("Addtition: of a + b ="+ sum);
 		System.out.println("Sadab");
 		System.out.println("Sadab");
+		System.out.println("Auth token");
+		System.out.println("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");
 
 	}
 
