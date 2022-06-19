@@ -27,6 +27,13 @@ public class DemoApplication {
 		System.out.println("Changes started from sadabjavadev");
 		System.out.println("Date: 19 June Day - sunday time 1.00 pm");
 		System.out.println("Changes ended from sadabjavadev");
+		
+		System.out.println("Changes started from sadab4131");
+		System.out.println("Now I was pull the changes.. So it was successfully pull the changes..");
+		System.out.println("But while commiting rember .class and .java both should be commit");
+		System.out.println("Remeber that after staged you want to do changes in file before that you should make it unstaged");
+		System.out.println("Date: 19 June Day - sunday time 1.25 pm");
+		System.out.println("Changes ended from sadab4131");
 
 	}
 
