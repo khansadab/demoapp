@@ -40,7 +40,16 @@ public class DemoApplication {
 		System.out.println("Changes started from sadabjavadev");
 		System.out.println("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");
 		System.out.println("Now working with conflict both developer working on same file");
+		
 		System.out.println("Changes ended from sadabjavadev");
+		
+		System.out.println("Changes started from sadab4131");
+		System.out.println("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");
+		System.out.println("If first developer commited and pushed.. Then 2nd dev most resolved that conflict either before commit or after pull");
+		System.out.println("First need to check head revision and take those files or those code in backup.. and after staged disscurd the changes");
+		System.out.println("After discurd pull the changes and then paste yor logic and commit it");
+		System.out.println("Date: 19 June Day - sunday time 2.2 pm");
+		System.out.println("Changes ended from sadab4131");
 
 	}
 
