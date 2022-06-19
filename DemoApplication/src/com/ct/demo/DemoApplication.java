@@ -35,6 +35,12 @@ public class DemoApplication {
 		System.out.println("Remeber that after staged you want to do changes in file before that you should make it unstaged");
 		System.out.println("Date: 19 June Day - sunday time 1.25 pm");
 		System.out.println("Changes ended from sadab4131");
+		
+		
+		System.out.println("Changes started from sadabjavadev");
+		System.out.println("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");
+		System.out.println("Now working with conflict both developer working on same file");
+		System.out.println("Changes ended from sadabjavadev");
 
 	}
 
