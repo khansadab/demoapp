@@ -50,6 +50,11 @@ public class DemoApplication {
 		System.out.println("After discurd pull the changes and then paste yor logic and commit it");
 		System.out.println("Date: 19 June Day - sunday time 2.2 pm");
 		System.out.println("Changes ended from sadab4131");
+		
+		System.out.println("Changes started from sadabjavadev");		
+		System.out.println("Date: 20 June Day - Moday time 8.40 pm");		
+		System.out.println("Changes ended from sadabjavadev");
+		
 
 	}
 
