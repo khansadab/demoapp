@@ -52,12 +52,23 @@ public class DemoApplication {
 		System.out.println("Changes ended from sadab4131");
 		
 		System.out.println("Changes started from sadabjavadev");		
-		System.out.println("Date: 20 June Day - Moday time 8.40 pm");		
-		System.out.println("Changes ended from sadabjavadev");
-		System.out.println("Changes started from sadabjavadev");		
-		System.out.println("Date: 20 June Day - Moday time 9.30 pm");		
+		System.out.println("Date: 20 June Day - Moday time 8.40 pm");			
 		System.out.println("Changes ended from sadabjavadev");
 		
+		System.out.println("Changes started from sadab4131");		
+		System.out.println("Date: 20 June Day - Moday time 19.20 pm");	
+		System.out.println("sadab4131 commited and pushed code febore sadabjavadev");
+		System.out.println("Now sadavjavadev without taking update he also commited");
+		System.out.println("After commited trying to push the code to feature barnch but while pushing gitting error not allaw to push");
+		System.out.println("So such type of conflict how to resolved by second developer ?");
+		System.out.println("sadabjavadev need to pull the latest update and then resolve it ");
+		System.out.println("After resoled the conflict need to staged file and commit and push");
+		System.out.println("Changes ended from sadab4131");
+		
+		
+		System.out.println("Changes started from sadabjavadev");			
+		System.out.println("Date: 20 June Day - Moday time 9.40 pm");		
+		System.out.println("Changes ended from sadabjavadev");
 
 	}
 
