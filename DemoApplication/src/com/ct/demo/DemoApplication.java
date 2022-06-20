@@ -45,7 +45,7 @@ public class DemoApplication {
 		
 		System.out.println("Changes started from sadab4131");
 		System.out.println("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");
-		System.out.println("If first developer commited and pushed.. Then 2nd dev most resolved that conflict either before commit or after pull");
+		System.out.println("If first developer commited and pushed.. Then 2nd dev should resolved that conflict either before commit or before pull");
 		System.out.println("First need to check head revision and take those files or those code in backup.. and after staged disscurd the changes");
 		System.out.println("After discurd pull the changes and then paste yor logic and commit it");
 		System.out.println("Date: 19 June Day - sunday time 2.2 pm");
